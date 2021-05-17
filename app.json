@@ -10,6 +10,3 @@
   ]
 }
 
-# numpy
-pandas
-git+https://{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}@https://github.com/suprabhatsk/testmath#egg=testmath
